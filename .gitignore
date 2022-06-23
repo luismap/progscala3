@@ -1,2 +1,8 @@
 *.class
+progscala3/*
 *.log
+target/*
+.bsp/*
+.idea/*
+.gradle/*
+project/*
